@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+i'm+Arshia%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=1DB625&background=FF000000&width=435&lines=Hello%2C+i'm+Arshia...++(Loading);Welcom+to+my+profile.;Check+out+my+projects." alt="Typing SVG" /></a>
 <!--
 **arshia-kh26/arshia-kh26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
